@@ -1,0 +1,10 @@
+# Jekyll configuration for GitHub Pages
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
